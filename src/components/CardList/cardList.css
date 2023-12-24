@@ -1,0 +1,15 @@
+.custom-scrollbar::-webkit-scrollbar {
+    height: 10px; /* Altura del scrollbar */
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Color de fondo del track del scrollbar */
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #888; /* Color del scrollbar en sí */
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Color del scrollbar al pasar el mouse */
+  }
